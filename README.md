@@ -16,6 +16,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + output/
 + source/
 + temp/
++ vendor/
 - .gitignore
 - build.cmd
 - build.sh
@@ -56,6 +57,10 @@ Main entry point for build
 #### temp/
 
 Temporary objects created by the build process
+
+#### vendor/
+
+External project requirements, like libraries
 
 #### version.ini
 
