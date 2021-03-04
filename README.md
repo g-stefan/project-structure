@@ -16,6 +16,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + output/
 + source/
 + temp/
++ test/
 + vendor/
 - .gitignore
 - build.cmd
@@ -26,73 +27,77 @@ In order to automate some build tasks and to be able to analyze software, a basi
 - version.ini
 ```
 
-#### README.md
-
-Information about the project
-
-#### LICENSE
-
-Project license
-
-#### source/
-
-Project source code
-
-#### docs/
-
-Project documentation
-
-#### build/
-
-This folder contains build scripts
-
-#### output/
-
-This folder contain build output
-
-#### build.cmd, build.sh
-
-Main entry point for build
-
-#### temp/
-
-Temporary objects created by the build process
-
-#### vendor/
-
-External project requirements, like libraries
-
-#### version.ini
-
-A version information file, using specification from [Semantic Versioning](https://semver.org/)
-
 #### .git/
 
 Is recommended that project use a version-control system, preferably [Git](https://git-scm.com/)
-
-#### .gitignore
-
-Folders or files to be ignored (for example build folder)
-
-#### .vscode/
-
-Folder used by [Visual Studio Code](https://code.visualstudio.com/), should contain basic build tasks to be used from editor
 
 #### .github/
 
 This folder has [GitHub](https://github.com/) recommended information and templates
 
-#### mkdocs.yml
-
-File with configuration for documentation build system
-
 #### .reuse/
 
 Folder used by [reuse software tool](https://reuse.software/), contain license and copyright specifications
 
+#### .vscode/
+
+Folder used by [Visual Studio Code](https://code.visualstudio.com/), should contain basic build tasks to be used from editor
+
+#### build/
+
+This folder contains build scripts
+
+#### docs/
+
+Project documentation
+
 #### LICENSES
 
 Licenses used by the project, checked by [reuse software tool](https://reuse.software/)
+
+#### output/
+
+This folder contain build output
+
+#### source/
+
+Project source code
+
+#### temp/
+
+Temporary objects created by the build process
+
+#### test/
+
+Scripts/utilities/source used for test
+
+#### vendor/
+
+External project requirements, like libraries
+
+#### .gitignore
+
+Folders or files to be ignored (for example build folder)
+
+#### build.cmd, build.sh
+
+Main entry point for build
+
+#### LICENSE
+
+Project license
+
+#### mkdocs.yml
+
+File with configuration for documentation build system
+
+#### README.md
+
+Information about the project
+
+#### version.ini
+
+A version information file, using specification from [Semantic Versioning](https://semver.org/)
 
 ---
 
