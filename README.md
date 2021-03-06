@@ -10,10 +10,12 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + .github/
 + .reuse/
 + .vscode/
++ archive/
 + build/
 + docs/
 + LICENSES/
 + output/
++ release/
 + source/
 + temp/
 + test/
@@ -43,6 +45,10 @@ Folder used by [reuse software tool](https://reuse.software/), contain license a
 
 Folder used by [Visual Studio Code](https://code.visualstudio.com/), should contain basic build tasks to be used from editor
 
+#### archive/
+
+Contains archives of source at different versions
+
 #### build/
 
 This folder contains build scripts
@@ -58,6 +64,10 @@ Licenses used by the project, checked by [reuse software tool](https://reuse.sof
 #### output/
 
 This folder contain build output
+
+#### release/
+
+Project release
 
 #### source/
 
