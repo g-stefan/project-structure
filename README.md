@@ -1,10 +1,10 @@
-# Project  structure recommendation
+# Project structure recommendation
 
 In order to automate some build tasks and to be able to analyze software, a basic folder structure is required and some tools for management.
 
 #### Folder structure
 
-```shell
+``` shell
 .
 + .git/
 + .github/
@@ -13,6 +13,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + archive/
 + build/
 + docs/
++ installer/
 + LICENSES/
 + output/
 + release/
@@ -56,6 +57,10 @@ This folder contains build scripts
 #### docs/
 
 Project documentation
+
+#### installer/
+
+Project generated installers
 
 #### LICENSES
 
@@ -109,23 +114,22 @@ Information about the project
 
 A version information file, using specification from [Semantic Versioning](https://semver.org/)
 
----
+- - -
 
 The project should use the following recommendations or/and tools:
 
-[Semantic Versioning](https://semver.org/) -  https://semver.org/
+[Semantic Versioning](https://semver.org/) \- https://semver\.org/
 
-[REUSE Software](https://reuse.software/) - https://reuse.software/
+[REUSE Software](https://reuse.software/) \- https://reuse\.software/
 
-[Git](https://git-scm.com/) - https://git-scm.com/
+[Git](https://git-scm.com/) \- https://git\-scm\.com/
 
-[Visual Studio Code](https://code.visualstudio.com/) - https://code.visualstudio.com/
+[Visual Studio Code](https://code.visualstudio.com/) \- https://code\.visualstudio\.com/
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - https://squidfunk.github.io/mkdocs-material/
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) \- https://squidfunk\.github\.io/mkdocs\-material/
 
----
+- - -
 
 MIT License
 
-Copyright (c) 2021 Grigore Stefan <<g_stefan@yahoo.com>>
-
+Copyright (c) 2021 Grigore Stefan <[g\_stefan@yahoo.com](mailto:g_stefan@yahoo.com)>
