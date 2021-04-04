@@ -13,6 +13,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + archive/
 + build/
 + docs/
++ input/
 + installer/
 + LICENSES/
 + output/
@@ -57,6 +58,10 @@ This folder contains build scripts
 #### docs/
 
 Project documentation
+
+#### input/
+
+Project input data or source code
 
 #### installer/
 
