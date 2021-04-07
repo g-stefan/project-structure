@@ -123,15 +123,15 @@ A version information file, using specification from [Semantic Versioning](https
 
 The project should use the following recommendations or/and tools:
 
-[Semantic Versioning](https://semver.org/) \- https://semver\.org/
+[Semantic Versioning](https://semver.org/) \- https://semver.org/
 
-[REUSE Software](https://reuse.software/) \- https://reuse\.software/
+[REUSE Software](https://reuse.software/) \- https://reuse.software/
 
-[Git](https://git-scm.com/) \- https://git\-scm\.com/
+[Git](https://git-scm.com/) \- https://git-scm.com/
 
-[Visual Studio Code](https://code.visualstudio.com/) \- https://code\.visualstudio\.com/
+[Visual Studio Code](https://code.visualstudio.com/) \- https://code.visualstudio.com/
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) \- https://squidfunk\.github\.io/mkdocs\-material/
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) \- https://squidfunk.github.io/mkdocs-material/
 
 - - -
 
