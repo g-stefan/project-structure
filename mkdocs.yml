@@ -2,4 +2,4 @@ site_name: Project folder structure
 theme:
   name: material
 docs_dir: docs
-site_dir: bin/docs
+site_dir: output/docs
