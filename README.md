@@ -97,7 +97,7 @@ External project requirements, like libraries
 
 #### .gitignore
 
-Folders or files to be ignored (for example build folder)
+Folders or files to be ignored (for example temp folder)
 
 #### build.cmd, build.sh
 
