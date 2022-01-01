@@ -5,67 +5,67 @@ Source: https://github.com/g-stefan/project-structure
 License: MIT
 
 Files: output/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: temp/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: docs/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: build/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: archive/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: source/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: test/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: vendor/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: release/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: build.*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: README.md
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: MIT
 
 Files: .github/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: .gitignore
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: .vscode/*
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: mkdocs.yml
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: version.ini
-Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+Copyright: 2021-2022 Grigore Stefan <g_stefan@yahoo.com>
 License: Unlicense
 
 Files: .github/CODE_OF_CONDUCT.md
