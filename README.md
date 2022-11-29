@@ -25,10 +25,11 @@ In order to automate some build tasks and to be able to analyze software, a basi
 - .gitignore
 - build.cmd
 - build.sh
+- fabricare.json
 - LICENSE
 - mkdocs.yml
 - README.md
-- version.ini
+- version.json
 ```
 
 #### .git/
@@ -58,6 +59,10 @@ This folder contains build scripts
 #### docs/
 
 Project documentation
+
+#### fabricare/
+
+Fabricare build system scripts
 
 #### input/
 
@@ -103,6 +108,10 @@ Folders or files to be ignored (for example temp folder)
 
 Main entry point for build
 
+#### fabricare.json
+
+Main config file for fabricare build system
+
 #### LICENSE
 
 Project license
@@ -115,7 +124,7 @@ File with configuration for documentation build system
 
 Information about the project
 
-#### version.ini
+#### version.json
 
 A version information file, using specification from [Semantic Versioning](https://semver.org/)
 
