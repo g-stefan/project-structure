@@ -13,6 +13,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + archive/
 + build/
 + docs/
++ fabricare/
 + input/
 + installer/
 + LICENSES/
