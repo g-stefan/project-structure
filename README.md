@@ -10,6 +10,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 + .github/
 + .reuse/
 + .vscode/
++ archeology/
 + archive/
 + build/
 + docs/
@@ -48,6 +49,10 @@ Folder used by [reuse software tool](https://reuse.software/), contain license a
 #### .vscode/
 
 Folder used by [Visual Studio Code](https://code.visualstudio.com/), should contain basic build tasks to be used from editor
+
+#### archeology/
+
+Archives of source/artifacts for archeology purposes. Old versions of software, to analyze evolution.
 
 #### archive/
 
