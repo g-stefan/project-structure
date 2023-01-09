@@ -1,6 +1,13 @@
 {
-	"project": {
-		"name": "project-structure",
-		"SPDX-License-Identifier": "MIT"
+	"solution": {
+		"name" : "project-structure",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name": "project-structure",
+				"SPDX-License-Identifier": "MIT"
+			}
+		],
+		"hasGithub" : true
 	}
 }
