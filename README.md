@@ -152,4 +152,4 @@ The project should use the following recommendations or/and tools:
 
 MIT License
 
-Copyright (c) 2021-2022 Grigore Stefan <[g\_stefan@yahoo.com](mailto:g_stefan@yahoo.com)>
+Copyright (c) 2021-2023 Grigore Stefan <[g\_stefan@yahoo.com](mailto:g_stefan@yahoo.com)>
