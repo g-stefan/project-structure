@@ -27,6 +27,7 @@ In order to automate some build tasks and to be able to analyze software, a basi
 - .gitignore
 - build.cmd
 - build.sh
+- CHANGELOG.md
 - fabricare.json
 - LICENSE
 - mkdocs.yml
@@ -114,6 +115,11 @@ Folders or files to be ignored (for example temp folder)
 
 Main entry point for build
 
+#### CHANGELOG.md
+
+All notable changes to this project will be documented in this file.
+Using specification from [keep a changelog](https://keepachangelog.com/en/1.0.0/)
+
 #### fabricare.json
 
 Main config file for fabricare build system
@@ -147,6 +153,8 @@ The project should use the following recommendations or/and tools:
 [Visual Studio Code](https://code.visualstudio.com/) \- https://code.visualstudio.com/
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) \- https://squidfunk.github.io/mkdocs-material/
+
+[keep a changelog](https://keepachangelog.com/en/1.0.0/) \- https://keepachangelog.com/en/1.0.0/
 
 - - -
 
