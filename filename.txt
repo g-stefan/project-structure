@@ -1,0 +1,7 @@
+[namespace].[project].v[version].[platform].[variant].zip
+
+examples:
+
+xyo.xyo-platform.v1.0.0.win64-msvc-2026.bin.zip
+xyo.xyo-platform.v1.0.0.win64-msvc-2026.dev.zip
+
